@@ -13,5 +13,7 @@ public class SpringCoreDevOpsApplication {
 		// another test
 		// one more test
         // two more test
+
+		// dummy test #7
 	}
 }
